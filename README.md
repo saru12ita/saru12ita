@@ -1,11 +1,9 @@
 # 💫 About Me:
 👋 Hi there!
-
-I'm Sarita B.K.  
-Passionate Software Engineering student 🚀  
-Based in Nepal  
-💻 Currently focused on Mobile App Development (Flutter & React Native)  
-
+I'm Sarita B.K.
+Passionate Software Engineering Graduate 🚀
+Based in Nepal
+💻 Currently focused on Mobile App Development (Flutter & React Native)
 ---
 
 # 💻 Tech Stack:
