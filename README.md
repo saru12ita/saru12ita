@@ -6,7 +6,9 @@
 </p>
 
 <p align="center">
+ <a href="https://saritabk.com.np/">
   <img src="https://komarev.com/ghpvc/?username=saru12ita&label=Profile+Views&color=0e75b6&style=flat" alt="profile views"/>
+</a>
 </p>
 
 ---
